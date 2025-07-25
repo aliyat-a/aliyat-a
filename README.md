@@ -25,3 +25,6 @@ Currently enrolled in a tech summer internship, learning GitHub, HTML, and CSS
 - Built responsive websites using HTML and CSS
 - Familiar with Figma and design thinking principles
 
+## 🔗 Links
+- [LinkedIn](https://www.linkedin.com/in/aliyat-aromire-37482a345/)
+- [My Favorite App: CodePen](https://codepen.io/pen)
